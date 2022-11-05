@@ -1,7 +1,7 @@
 # Typhoon_monitor
 A monitor system for typhoon Hagupit
 # main technologies
-C# ArcEngine Oracle-dbms
+C#;ArcEngine;Oracle-dbms
 # all functions
 ![image](https://user-images.githubusercontent.com/71375959/200111069-6a9370db-ff97-4407-b679-414ee9e0902b.png)
 
