@@ -9,7 +9,8 @@ C# ArcEngine Oracle-dbms
 1. display the main information
 ![image](https://user-images.githubusercontent.com/71375959/200110808-cc725b5a-e5e4-4cbe-861c-da68f23492d3.png)
 2. play/pause the path generation process of the typhoon
-![image](https://user-images.githubusercontent.com/71375959/200110857-14426616-15dd-42c8-b92b-18d9fe1676bf.png)
+![image](https://user-images.githubusercontent.com/71375959/200111167-f1c81766-cec7-4b77-b227-d2be35ffb57d.png)
+
 3. query the landing point/leaving point/level changing point of the Typhoon
 ![image](https://user-images.githubusercontent.com/71375959/200110625-a157b407-cef3-4e8e-a13b-fe9f48d5db7e.png)
 4.query by attribute
